@@ -1,1 +1,1 @@
-/etc/docker/certs.d/reg.bidopin.local\:5000/domain.crt 
+/etc/docker/certs.d/reg.bido.local\:5000/domain.crt 
